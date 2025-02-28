@@ -4,11 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DataValidationApplication {
+public class OneToOneMappingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DataValidationApplication.class, args);
+		SpringApplication.run(OneToOneMappingApplication.class, args);
 	}
 
 }
-
