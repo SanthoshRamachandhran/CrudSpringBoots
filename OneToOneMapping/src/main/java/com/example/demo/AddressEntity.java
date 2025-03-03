@@ -13,6 +13,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 //i am Entity
+//i am santhosh
 @Entity
 @Data
 @AllArgsConstructor
