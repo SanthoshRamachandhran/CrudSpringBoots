@@ -12,7 +12,7 @@ import jakarta.persistence.ManyToOne;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
+//i am Entity
 @Entity
 @Data
 @AllArgsConstructor
